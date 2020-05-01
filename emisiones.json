@@ -1,0 +1,38 @@
+[
+{
+"pais": "Rusia",
+"emisiones": 1766000,
+"basura": 207.4,
+"latitud": 55.755833,
+"longitud":  37.617778
+},
+{
+"pais": "Alemania",
+"emisiones": 767000,
+"basura": 48.84,
+"latitud": 52.516667,
+"longitud": 13.383333
+},
+{
+"pais": "Italia",
+"emisiones": 337000,
+"basura": 29.74,
+"latitud": 41.893056,
+"longitud": 12.482778
+},
+{
+"pais": "Francia",
+"emisiones": 323000,
+"basura": 32.17,
+"latitud": 48.856944,
+"longitud":  2.351389
+},
+{
+"pais": "España",
+"emisiones": 304603,
+"basura": 25.99,
+"latitud": 40.418889,
+"longitud": -3.691944
+}
+]
+
